@@ -1,0 +1,41 @@
+States of India:
+
+1. Andhra Pradesh: 162,968 km²
+2. Arunachal Pradesh: 83,743 km²
+3. Assam: 78,438 km²
+4. Bihar: 94,163 km²
+5. Chhattisgarh: 135,191 km²
+6. Goa: 3,702 km²
+7. Gujarat: 196,024 km²
+8. Haryana: 44,212 km²
+9. Himachal Pradesh: 55,673 km²
+10. Jharkhand: 79,716 km²
+11. Karnataka: 191,791 km²
+12. Kerala: 38,863 km²
+13. Madhya Pradesh: 308,252 km²
+14. Maharashtra: 307,713 km²
+15. Manipur: 22,327 km²
+16. Meghalaya: 22,429 km²
+17. Mizoram: 21,081 km²
+18. Nagaland: 16,579 km²
+19. Odisha (formerly Orissa): 155,707 km²
+20. Punjab: 50,362 km²
+21. Rajasthan: 342,239 km²
+22. Sikkim: 7,096 km²
+23. Tamil Nadu: 130,058 km²
+24. Telangana: 112,077 km²
+25. Tripura: 10,491 km²
+26. Uttar Pradesh: 243,290 km²
+27. Uttarakhand: 53,483 km²
+28. West Bengal: 88,752 km²
+
+Union Territories of India:
+
+1. Andaman and Nicobar Islands: 8,249 km²
+2. Chandigarh: 114 km²
+3. Dadra and Nagar Haveli and Daman and Diu: 603 km²
+4. Lakshadweep: 32 km²
+5. Delhi: 1,484 km²
+6. Puducherry (formerly Pondicherry): 479 km²
+7. Ladakh: 59,146 km²
+8. Jammu and Kashmir: 222,236 km²
